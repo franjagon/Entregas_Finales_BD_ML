@@ -2,3 +2,4 @@ Repositorio para contener las entregas finales de las asignaturas del Bootcamp I
 
 21 de Julio de 2019 		--> Estadística [Practica_Final_Estadistica_FcoJavierGonzalvez.ipynb]
 15 de Septiembre de 2019	--> Arquitectura Big Data [Practica_Final_Big_Data_Architecture.docx  &  Diagrama_PF_ArquitecturaBD.pdf]
+29 de Septiembre de 2019 	--> Álgebra [Practica_Final_Algebra_FcoJavierGonzalvez.ipynb]
