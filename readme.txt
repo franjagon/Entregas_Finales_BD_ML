@@ -8,3 +8,4 @@ Repositorio para contener las entregas finales de las asignaturas del Bootcamp I
 17 / 11 / 2019	-->  Modern Exploration & Visualization [Practica_Final_D3_FcoJavierGonzalvez.zip]
 08 / 12 / 2019  -->  DataMining [Practica_Final_Data_Mining.docx]
 12 / 01 / 2020  -->  Machine Learning [Practica_Final_Machine_Learning.docx]
+02 / 00 / 2020  -->  Deep Learning [Practica_Final_Deep_Learning.ipynb]
